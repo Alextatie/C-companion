@@ -1,3 +1,2 @@
 # C-companion
-# Scripts are in the Asset folder
-# 
+Scripts are in the Assets folder
