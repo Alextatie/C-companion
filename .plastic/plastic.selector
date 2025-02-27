@@ -1,4 +1,0 @@
-repository "Learning c@AlexVersionControl@cloud"
-  path "/"
-    br "/main"
-    co "/main"
