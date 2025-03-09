@@ -17,7 +17,7 @@ public class SoundManager : MonoBehaviour
 		gameWon = Resources.Load<AudioClip>("gameWon");
 		gameLost = Resources.Load<AudioClip>("gameLost");*/
         //buttonClick = Resources.Load<AudioClip>("mouseclick");
-        buttonClick = Resources.Load<AudioClip>("buttonClick");
+        buttonClick = Resources.Load<AudioClip>("Click5");  //buttonClick
         wrong = Resources.Load<AudioClip>("wrong");
         correct = Resources.Load<AudioClip>("correct");
         finish2 = Resources.Load<AudioClip>("levelwin");
